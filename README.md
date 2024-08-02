@@ -7,10 +7,10 @@ Proyek ini bertujuan untuk melakukan analisis terhadap data penjualan ponsel. An
 mobile_sales_analysis/
 │
 ├── data/
-│ └── mobile_sales.csv
+│   └── mobile_sales.csv
 │
 ├── notebooks/
-│ └── mobile_sales_analysis.ipynb
+│   └── mobile_sales_analysis.ipynb
 │
 ├── README.md
 │
